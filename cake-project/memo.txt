@@ -1,0 +1,5 @@
+20220723
+Eslintの設定
+
+prettierの設定
+https://zenn.dev/k_kazukiiiiii/articles/670ebae0005872
