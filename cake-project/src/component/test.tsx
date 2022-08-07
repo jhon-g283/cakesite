@@ -1,9 +1,5 @@
-
-const Header =()=>{
-    return(<a>test</a>)
-
-
-}
-
+const Header = () => {
+  return <a>test</a>;
+};
 
 export default Header;
